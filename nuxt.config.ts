@@ -16,7 +16,7 @@ export default defineNuxtConfig({
           content: "Willkommen zur Hochzeit von Miguel & Maria",
         },
       ],
-      //link: [{ rel: "icon", type: "image/png", href: "/images/ring-logo.png" }],
+      link: [{ rel: "icon", type: "image/png", href: "/images/rose.png" }],
     },
   },
   devtools: { enabled: true },
