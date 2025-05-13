@@ -14,12 +14,12 @@
         <section class="relative py-8 px-4">
           <!-- Flores decorativas -->
           <img 
-            src="/public/images/flower2.png" 
+            src="/public/images/rose.png" 
             class="absolute -top-10 -left-10 w-32 opacity-20 rotate-12 animate-float-slow"
             alt="Flor decorativa"
           >
           <img 
-            src="/public/images/flower2.png" 
+            src="/public/images/rose.png" 
             class="absolute -bottom-5 -right-5 w-28 opacity-20 -rotate-15 animate-float-slower"
             alt="Flor decorativa"
           >
