@@ -51,7 +51,7 @@
               
               <div class="space-y-2 mb-6">
                 <div class="text-lg font-cormorant text-rosewood/90">21.06.2025</div>
-                <div class="text-lg font-cormorant text-rosewood/90">19 HORAS</div>
+                <div class="text-lg font-cormorant text-rosewood/90">17 HORAS</div>
               </div>
               
               <div class="flex items-center justify-center space-x-2 text-rosewood/80 mt-8">
